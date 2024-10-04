@@ -1,4 +1,6 @@
 # SA 2Fase(A revolta)
-Olá, nós somos a InkluaTicket, somos uma empresa fictícia criada por alunos do Senai para SA(Situação de aprendizagem) e nesse semestre estamos desenvolvendo um aplicativo!
-Nosso aplicativo é de cunho informativo, informamos sobre eventos e redirecionamos para onde pode ser efetuada a compra dos ingressos.
-Eventos em geral como: shows, eventos culturais, seminários, palestras e etc. Todos os eventos informados serão exclusivamente aqueles que tem acessibilidade para pessoas PCD's.
+A InkluaTicket é uma empresa fictícia desenvolvida por alunos do SENAI como parte de um projeto de Situação de Aprendizagem (SA). Neste semestre, estamos trabalhando no desenvolvimento de um aplicativo informativo dedicado a promover eventos acessíveis.
+
+Nosso aplicativo fornecerá informações detalhadas sobre uma variedade de eventos, incluindo shows, eventos culturais, seminários e palestras, além de redirecionar os usuários para as plataformas de compra de ingressos. Importante ressaltar que todos os eventos listados serão aqueles que garantem acessibilidade para pessoas com deficiência.
+
+
